@@ -102,6 +102,8 @@ RUN apt-get update \
     gcc \
     build-essential \
     libbz2-dev \
+    # For pdf generation
+    fonts-deva \
     && rm -rf /var/lib/apt/lists/*
 
 # apps.json includes
