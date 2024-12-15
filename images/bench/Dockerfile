@@ -18,6 +18,7 @@ RUN apt-get update \
     fonts-cantarell \
     xfonts-75dpi \
     xfonts-base \
+    fonts-deva \
     # weasyprint dependencies
     libpango-1.0-0 \
     libharfbuzz0b \
